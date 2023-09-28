@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Addons que busca alterar sua gameplay",
+    "name": "Project-T",
+    "uuid":"b0fb63d0-b216-4548-b886-00904cc116ea",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules":
+    [
+      {
+        "description": ":)",
+          "type": "data",
+          "uuid": "08e1ad7f-c5ed-4d2e-a18b-ba56c06e223a",
+          "version": [0, 0, 1]
+      }
+    ],
+  "dependencies": [
+    {
+     "uuid":"e04a13fb-5446-4ec5-b4c6-b37a67597d23",
+      "version":[0,0,1]
+    }
+ ]
+}
